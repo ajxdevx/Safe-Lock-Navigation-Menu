@@ -1,0 +1,16 @@
+{
+  "name": "safe-lock-navigation-menu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "AJ",
+  "license": "ISC",
+  "description": "Animated full-screen navigation menu with GSAP",
+  "dependencies": {
+    "gsap": "^3.14.2",
+    "vite": "^7.3.0"
+  }
+}
